@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tryawscp-dev-151242-authRole",
+      "UnauthRoleArn": "arn:aws:iam::762886281806:role/amplify-tryawscp-dev-151242-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::762886281806:role/amplify-tryawscp-dev-151242-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tryawscp-dev-151242-deployment",
+      "UnauthRoleName": "amplify-tryawscp-dev-151242-unauthRole",
+      "StackName": "amplify-tryawscp-dev-151242",
+      "StackId": "arn:aws:cloudformation:us-east-1:762886281806:stack/amplify-tryawscp-dev-151242/c3cd1320-10d8-11ec-968c-0e3edd8361ed",
+      "AmplifyAppId": "d12kjlg3ifphxu"
+    }
+  }
+}
